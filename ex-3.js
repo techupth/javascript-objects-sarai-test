@@ -4,6 +4,7 @@
 const employee = {
   name: "John Doe",
   age: 18,
+  number: 1,
   address: {
     street: "123 Main Street",
     city: "Cityville",

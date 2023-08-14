@@ -7,4 +7,5 @@ const product = {
   photo: null,
 };
 let socialMediaShare = "facebookShare";
+let test 
 // Start code here
